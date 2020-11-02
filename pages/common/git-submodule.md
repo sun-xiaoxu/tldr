@@ -7,14 +7,14 @@
 
 `git submodule update --init --recursive`
 
-- Add a git repository as a submodule:
+- 下载子模块:
 
 `git submodule add {{repository_url}}`
 
-- Add a git repository as a submodule at the specified directory:
+- 下载子模块到指定目录:
 
 `git submodule add {{repository_url}} {{path/to/directory}}`
 
-- Update every submodule to its latest commit:
+- 更新子模块:
 
 `git submodule foreach git pull`

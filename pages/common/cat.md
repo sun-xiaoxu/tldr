@@ -1,8 +1,8 @@
 # cat
 
-> Print and concatenate files.
+> 查看文件内容.
 
-- Print the contents of a file to the standard output:
+- 查看文件:
 
 `cat {{file}}`
 

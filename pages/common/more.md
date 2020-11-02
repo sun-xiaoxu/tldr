@@ -2,9 +2,9 @@
 
 > Open a file for interactive reading, allowing scrolling and search (in forward direction only).
 
-- Open a file:
+- 显示文件:
 
-`more {{source_file}}`
+`more {{文件名}}`
 
 - Page down:
 

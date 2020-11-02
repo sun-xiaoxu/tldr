@@ -4,11 +4,11 @@
 > These configurations can be local (for the current repository) or global (for the current user).
 > More information: <https://git-scm.com/docs/git-config>.
 
-- List only local configuration entries (stored in `.git/config` in the current repository):
+- 查看当前目录下git的配置,在.git/config` 
 
 `git config --list --local`
 
-- List only global configuration entries (stored in `~/.gitconfig`):
+- 查看git全局配置,在~/.gitconfig:
 
 `git config --list --global`
 

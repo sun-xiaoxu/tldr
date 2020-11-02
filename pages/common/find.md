@@ -1,10 +1,10 @@
 # find
 
-> Find files or directories under the given directory tree, recursively.
+> 递归查找给定目录下的文件或目录。
 
-- Find files by extension:
+- 查找扩展名xxx的文件:
 
-`find {{root_path}} -name '{{*.ext}}'`
+`find {{root_path}} -name '{{*.xxx}}'`
 
 - Find files by matching multiple patterns:
 

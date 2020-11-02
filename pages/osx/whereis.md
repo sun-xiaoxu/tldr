@@ -1,8 +1,8 @@
 # whereis
 
-> Locate the binary, source, and manual page files for a command.
+> 查找二进制文件位置
 
-- Locate binary, source and man pages for ssh:
+- 查找ssh.sh位置:
 
 `whereis {{ssh}}`
 

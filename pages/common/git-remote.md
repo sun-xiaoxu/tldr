@@ -3,7 +3,7 @@
 > Manage set of tracked repositories ("remotes").
 > More information: <https://git-scm.com/docs/git-remote>.
 
-- Show a list of existing remotes, their names and URL:
+- 查看远程仓库的url:
 
 `git remote -v`
 
