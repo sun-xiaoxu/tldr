@@ -1,9 +1,6 @@
 # git
 
-> Distributed version control system.
-> More information: <https://git-scm.com/>.
-
-- Check the Git version:
+- 查看git版本:
 
 `git --version`
 
